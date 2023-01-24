@@ -1,0 +1,9 @@
+.week {
+  background-color: #868686;
+  width: 10px;
+  height: 10px;
+}
+
+.active {
+  background-color: #424242;
+}

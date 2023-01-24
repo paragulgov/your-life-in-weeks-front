@@ -1,0 +1,9 @@
+.calculator {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.dateSettings input {
+  margin-left: 5px;
+}

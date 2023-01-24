@@ -1,0 +1,7 @@
+.weeks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  width: 700px;
+  padding-bottom: 50px;
+}
